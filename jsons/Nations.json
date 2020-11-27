@@ -8,7 +8,7 @@
 		"startIntroPart1": "Interesting facts about Joes",
 		"startIntroPart2": "Will you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "Jokes on you!",
+		"declaringWar": "Call an ambulance, call an ambulance! BUT NOT FOR ME!",
 		"attacked": "Oh well, I guess I will die.",
 		"defeated": "F*** this s*** I am out!",
 		"introduction": "Hi, I am Joe. This is also Joe. How about you?",
@@ -21,7 +21,7 @@
 		"outerColor": [255,204,93],
 		"innerColor": [120,24,25],
 		"uniqueName": "Life goes on",
-		"uniqueText": "Can't Produce Great Person, sorry. Not so great persons are earned 150% faster",
+		"uniqueText": "Can't Produce Great Person, sorry :(. Not so great persons are earned 150% faster tho :)",
 		"uniques": ["+[150]% great person generation in all cities"],
 		"cities": ["Jo Mama","Joekarta","Joerusalem","Joeckson","Joecland","Joemaica","Joersey","Joeburg","Joestown","Joejoe","Joeork","Joepiter","New Joersey","New Joeork"]
 	},
