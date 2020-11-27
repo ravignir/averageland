@@ -1,0 +1,57 @@
+[
+	{
+		"name": "Private",
+		"unitType": "Melee",
+		"replaces": "Infantry",
+		"uniqueTo": "Averageland",
+		"movement": 2,
+		"strength": 60,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"uniques": ["+[25]% combat bonus in [Foreign Land]"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Not so great Artist",
+		"replaces": "Great Artist",
+		"uniqueTo": "Averageland",
+		"unitType": "Civilian",
+		"uniques": ["Can start an [3]-turn golden age", "Can construct [Mediocre Landmark]", "Great Person - [Culture]", "Unbuildable","Will not be displayed in Civilopedia"],
+		"movement": 2
+	},
+	{
+		"name": "Not so great Scientist",
+		"replaces": "Great Scientist",
+		"uniqueTo": "Averageland",
+		"unitType": "Civilian",
+		"uniques": ["Can construct [Mediocre Academy]", "Great Person - [Science]", "Unbuildable","Will not be displayed in Civilopedia"],
+		"movement": 2
+	},
+	{
+		"name": "Not so great Merchant",
+		"replaces": "Great Merchant",
+		"uniqueTo": "Averageland",
+		"unitType": "Civilian",
+		"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [15] Influence",
+			"Can construct [Shopping Mall]", "Great Person - [Gold]", "Unbuildable","Will not be displayed in Civilopedia"],
+		"movement": 2
+	},
+	{
+		"name": "Not so great Engineer",
+		"replaces": "Great Engineer",
+		"uniqueTo": "Averageland",
+		"unitType": "Civilian",
+		"uniques": ["Can construct [Mediocre Manufactory]", "Great Person - [Production]", "Unbuildable","Will not be displayed in Civilopedia"],
+		"movement": 2
+	},
+	{
+		"name": "Not so great General",
+		"replaces": "Great General",
+		"uniqueTo": "Averageland",
+		"unitType": "Civilian",
+		"uniques": ["Can start an [3]-turn golden age", "Bonus for units in 2 tile radius 15%", "Can construct [Mediocre Citadel]",
+			"Great Person - [War]", "Unbuildable","Will not be displayed in Civilopedia"],
+		"movement": 2
+	},
+]

@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Mediocre Academy",
+		"science": 4,
+		"uniques": ["Great Improvement","[+5 Science] once [Scientific Theory] is discovered"]
+		// in Gods & Kings academy will also have "[+2 Science] once [Atomic Theory] is discovered"
+	},
+	{
+		"name": "Mediocre Landmark",
+		"culture": 3,
+		"uniques": ["Great Improvement","[+3 Culture] once [Flight] is discovered"]
+	},
+	{
+		"name": "Mediocre Manufactory",
+		"production": 2,
+		"uniques": ["Great Improvement", "[+3 Production] once [Computers] is discovered"]
+	},
+	{
+		"name": "Shopping Mall",
+		"gold": 2,
+		"uniques": ["Great Improvement", "[+3 Gold] once [Radio] is discovered"]
+	},
+	{
+		"name": "Mediocre Citadel",
+		"uniques": ["Gives a defensive bonus of [50]%", "Deal [15] damage to adjacent enemy units", "Great Improvement"]
+	},
+
+]

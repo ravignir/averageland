@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Fast Food", 
+		"uniqueTo": "Averageland",
+		"replaces": "Hospital",
+		"food": 3,
+		"happiness": 3,
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Plastics",
+		"uniques": ["Tasty burgers for everyone"]
+	},
+]

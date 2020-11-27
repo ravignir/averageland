@@ -1,0 +1,167 @@
+
+game.png
+size: 2048,256
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+BuildingIcons/Fast Food
+  rotate: false
+  xy: 204, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Mediocre Academy
+  rotate: false
+  xy: 608, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Mediocre Citadel
+  rotate: false
+  xy: 710, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Mediocre Landmark
+  rotate: false
+  xy: 812, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Mediocre Manufactory
+  rotate: false
+  xy: 914, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Shopping Mall
+  rotate: false
+  xy: 1424, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Averageland
+  rotate: false
+  xy: 2, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mediocre Academy
+  rotate: false
+  xy: 2, 2
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mediocre Citadel
+  rotate: false
+  xy: 710, 103
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mediocre Landmark
+  rotate: false
+  xy: 1526, 204
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mediocre Manufactory
+  rotate: false
+  xy: 710, 62
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Shopping Mall
+  rotate: false
+  xy: 744, 73
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Not so great Artist
+  rotate: false
+  xy: 36, 10
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Not so great Engineer
+  rotate: false
+  xy: 744, 110
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Not so great General
+  rotate: false
+  xy: 1526, 174
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Not so great Merchant
+  rotate: false
+  xy: 1560, 212
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Not so great Scientist
+  rotate: false
+  xy: 70, 10
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Not so great Artist
+  rotate: false
+  xy: 1016, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Not so great Engineer
+  rotate: false
+  xy: 1118, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Not so great General
+  rotate: false
+  xy: 608, 44
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+UnitIcons/Not so great Merchant
+  rotate: false
+  xy: 1220, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Not so great Scientist
+  rotate: false
+  xy: 1322, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Private
+  rotate: false
+  xy: 406, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
