@@ -56,11 +56,10 @@
 	},
 {
 		"name": "Merchant of Venice", //modded
-		"uniqueTo": "Venice",
+		"uniqueTo": "Averageland",
 		"replaces": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 250,
 		"uniques": ["Unbuildable","Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence","Can construct [Customs house]","Great Person - [Gold]","Double movement in coast"],
 	},
 ]
