@@ -20,6 +20,17 @@
 		"uniques": ["Can start an [3]-turn golden age", "Can construct [Mediocre Landmark]", "Great Person - [Culture]", "Unbuildable","Will not be displayed in Civilopedia"],
 		"movement": 2
 	},
+{
+"name": "Woerker",
+"uniqueTo": "Averageland",
+		"replaces": "Worker",
+		"unitType": "Civilian",
+		"movement": 2,
+"strength": 50,
+		"cost": 70,
+		"uniques": ["Can build improvements on tiles"]
+	},
+
 	{
 		"name": "Not so great Scientist",
 		"replaces": "Great Scientist",
