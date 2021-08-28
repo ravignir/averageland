@@ -21,15 +21,19 @@
 		"movement": 2
 	},
 {
-"name": "Woerker",
-"uniqueTo": "Averageland",
-		"replaces": "Worker",
-		"unitType": "Civilian",
+		"name": "Nuclear Artillery",
+		"unitType": "Siege",
 		"movement": 2,
-"strength": 50,
-		"cost": 70,
-		"uniques": ["Can build improvements on tiles"]
+		"strength": 45,
+		"rangedStrength": 100,
+		"range": 3,
+		"cost": 750,	
+	"requiredTech": "Advanced Ballistics",	
+	"requiredResource": "Uranium",
+		"uniques": ["+[150]% Strength vs [City]","No defensive terrain bonus",			"Limited Visibility","Ranged attacks may be performed over obstacles", "Must set up to ranged attack", "Nuclear weapon of Strength [1]", "Requires [Manhattan Project]", "Blast radius [1]"],
+		"attackSound": "nuke"	
 	},
+
 
 	{
 		"name": "Not so great Scientist",
